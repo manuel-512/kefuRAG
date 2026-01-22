@@ -1,5 +1,3 @@
-from rapidfuzz.distance.Hamming_py import similarity
-
 md5_path = "./md5.text"
 
 dashscope_api_key = "sk-da256c452bfb48b9825da2a2565d6512"
